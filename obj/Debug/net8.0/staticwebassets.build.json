@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Z1Ptgal4TR6uTYs7CdYZmnfhFcyg44UCZk2/4/iaWws=",
+  "Source": "dotnet",
+  "BasePath": "_content/dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "dotnet\\wwwroot",
+      "Source": "dotnet",
+      "ContentRoot": "C:\\Users\\cahte\\Downloads\\dotnet\\wwwroot\\",
+      "BasePath": "_content/dotnet",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\cahte\\Downloads\\dotnet\\wwwroot\\index.html",
+      "SourceId": "dotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cahte\\Downloads\\dotnet\\wwwroot\\",
+      "BasePath": "_content/dotnet",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
